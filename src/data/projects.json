@@ -1,0 +1,1810 @@
+{
+  "webDesign": [
+    {
+      "id": 11,
+      "slug": "smart-logo-maker_webDesign",
+      "title": "Smart Logo Maker",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/web/smart-logo-maker_webDesign/hero.png",
+      "mainImage": "/case-studies/Smart Logo Maker.png",
+      "about": "An AI-powered logo generation platform that allows users to create professional brand identities in seconds. Featuring a powerful editor, real-time previews, and a seamless user experience across all devices.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/web/smart-logo-maker/sneak-1.png",
+        "/images/singlePageProjects/web/smart-logo-maker/sneak-2.png"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "/images/home/technology/frontend/javascript.svg"
+        },
+        {
+          "name": "NEXT JS",
+          "logo": "/images/home/technology/frontend/nextjs.png"
+        },
+        {
+          "name": "React",
+          "logo": "/images/home/technology/frontend/react.svg"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "slug": "chatsupplies",
+      "title": "ChatSupplies",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/web/chatsupplies/hero.png",
+      "mainImage": "/case-studies/ChatSupplies.png",
+      "about": "ChatSupplies is a smart chat solution platform that empowers businesses with intelligent, real-time chat tools and supply management. It delivers a seamless communication experience built for scale.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/web/chatsupplies/sneak-1.png",
+        "/images/singlePageProjects/web/chatsupplies/sneak-2.png",
+        "/images/singlePageProjects/web/chatsupplies/sneak-3.png"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "/images/home/technology/frontend/javascript.svg"
+        },
+        {
+          "name": "NEXT JS",
+          "logo": "/images/home/technology/frontend/nextjs.png"
+        },
+        {
+          "name": "React",
+          "logo": "/images/home/technology/frontend/react.svg"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "slug": "diginizam",
+      "title": "DigiNizam",
+      "description": "",
+      "heroImage": "/case-studies/diginizam-case-study.svg",
+      "mainImage": "/case-studies/diginizam-case-study.svg",
+      "about": "DigiNizam is an AI-powered retail operating system that unifies point-of-sale, inventory, and reporting for growing businesses in Pakistan — restaurants, retail stores, pharmacies, salons, and more — with built-in FBR fiscal integration and local payment methods.",
+      "sneakPeekImages": [
+        "/case-studies/diginizam-case-study.svg",
+        "/case-studies/diginizam-case-study.svg"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "/images/home/technology/frontend/javascript.svg"
+        },
+        {
+          "name": "NEXT JS",
+          "logo": "/images/home/technology/frontend/nextjs.png"
+        },
+        {
+          "name": "React",
+          "logo": "/images/home/technology/frontend/react.svg"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "slug": "rx101",
+      "title": "RX101",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/web/rx101/hero.png",
+      "mainImage": "/images/singlePageProjects/web/rx101/main.png",
+      "about": "A healthcare and pharmacy platform dedicated to improving medication accessibility and patient care experiences.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/web/rx101/sneak-1.png",
+        "/images/singlePageProjects/web/rx101/sneak-2.png"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "NEXT JS",
+          "logo": "/images/home/technology/frontend/nextjs.png"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "slug": "weteachs",
+      "title": "WeTeachs",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/web/weteachs/main.png",
+      "mainImage": "/images/singlePageProjects/web/weteachs/main.png",
+      "about": "WeTeachs is an online education platform connecting real experts with learners around the globe. It enables anyone to teach, learn, or earn by sharing their knowledge through live sessions and courses.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/web/weteachs/sneak-1.png",
+        "/images/singlePageProjects/web/weteachs/sneak-2.png"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "/images/home/technology/frontend/javascript.svg"
+        },
+        {
+          "name": "NEXT JS",
+          "logo": "/images/home/technology/frontend/nextjs.png"
+        },
+        {
+          "name": "React",
+          "logo": "/images/home/technology/frontend/react.svg"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "slug": "aureaoctave",
+      "title": "Aurea Octave",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/web/aureaoctave/main.png",
+      "mainImage": "/images/singlePageProjects/web/aureaoctave/main.png",
+      "about": "Aurea Octave is a premium music and arts platform offering an elegant digital experience for music lovers and creators. It features a stunning design, showcasing events, artists, and musical journeys.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/web/aureaoctave/sneak-1.png",
+        "/images/singlePageProjects/web/aureaoctave/sneak-2.png",
+        "/images/singlePageProjects/web/aureaoctave/sneak-3.png"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "/images/home/technology/frontend/javascript.svg"
+        },
+        {
+          "name": "NEXT JS",
+          "logo": "/images/home/technology/frontend/nextjs.png"
+        },
+        {
+          "name": "React",
+          "logo": "/images/home/technology/frontend/react.svg"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "slug": "drafidox",
+      "title": "Drafidox",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/web/drafidox/hero.png",
+      "mainImage": "/case-studies/DrafiDox.png",
+      "about": "Drafidox offers powerful AI tools for document, image, and text processing. It simplifies complex tasks with intuitive features, empowering users to work smarter and faster.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/web/drafidox/sneak-1.png",
+        "/images/singlePageProjects/web/drafidox/sneak-2.png"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "/images/home/technology/frontend/javascript.svg"
+        },
+        {
+          "name": "NEXT JS",
+          "logo": "/images/home/technology/frontend/nextjs.png"
+        },
+        {
+          "name": "React",
+          "logo": "/images/home/technology/frontend/react.svg"
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "slug": "certainli",
+      "title": "Certainli",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/web/certainli/hero.png",
+      "mainImage": "/case-studies/Certainli (2).png",
+      "about": "A compliance and certification platform designed to simplify complex regulatory processes for businesses.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/web/certainli/sneak-1.png",
+        "/images/singlePageProjects/web/certainli/sneak-2.png"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "React",
+          "logo": "/images/home/technology/frontend/react.svg"
+        },
+        {
+          "name": "NEXT JS",
+          "logo": "/images/home/technology/frontend/nextjs.png"
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "slug": "alttext_ai",
+      "title": "AltText AI",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/web/alttext_ai/hero.png",
+      "mainImage": "/images/singlePageProjects/web/alttext_ai/main.png",
+      "about": "An intelligent AI solution that automatically generates accurate and descriptive alt text for images to enhance web accessibility.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/web/alttext_ai/sneak-1.png",
+        "/images/singlePageProjects/web/alttext_ai/sneak-2.png"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "React",
+          "logo": "/images/home/technology/frontend/react.svg"
+        },
+        {
+          "name": "Chat GPT",
+          "logo": "/images/home/technology/Ai/chatgpt-6.svg"
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "slug": "hpappen",
+      "title": "HP Appen",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/web/hpappen/hero.png",
+      "mainImage": "/case-studies/Hpappen (2).png",
+      "about": "A comprehensive digital application streamlining real estate, property management, and housing solutions.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/web/hpappen/sneak-1.png",
+        "/images/singlePageProjects/web/hpappen/sneak-2.png"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "React",
+          "logo": "/images/home/technology/frontend/react.svg"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "slug": "jiffy_new",
+      "title": "Jiffy Quick Commerce",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/web/jiffy_new/hero.png",
+      "mainImage": "/images/singlePageProjects/web/jiffy_new/main.png",
+      "about": "A fast and reliable delivery platform providing authenticated same-day service to streamline your daily operations.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/web/jiffy_new/sneak-1.png",
+        "/images/singlePageProjects/web/jiffy_new/sneak-2.png"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "React",
+          "logo": "/images/home/technology/frontend/react.svg"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "RubnGub_webDesign",
+      "title": "RubnGub",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/rubngub/rubngub.png",
+      "mainImage": "/images/rubngub.png",
+      "about": "We offer a wide range of organic foods, ensuring quality and trust. Our store provides organic products for your health needs. With us, you can shop confidently, knowing that our foods are 100% organic and trustworthy.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/rubngub/rubngub1.png",
+        "/images/singlePageProjects/rubngub/rubngub2.png",
+        "/images/singlePageProjects/rubngub/rubngub3.png"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "/images/home/technology/frontend/javascript.svg"
+        },
+        {
+          "name": "NEXT JS",
+          "logo": "/images/home/technology/frontend/nextjs.png"
+        },
+        {
+          "name": "NEST JS",
+          "logo": "/images/home/technology/backend/nest.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "slug": "lockSmith_webDesign",
+      "title": "LockSmith Guru",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/locksmithguru/locksmithguru.png",
+      "mainImage": "/images/locksmithguru.png",
+      "about": "If you are searching for a locksmith in dubai that provides urgent services whether you are locked out of your car or your home or have broken your office key inside the lock- Locksmith Guru’s experts are just a call away to assist all your locksmith needs!",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/locksmithguru/locksmithguru1.png",
+        "/images/singlePageProjects/locksmithguru/locksmithguru2.png",
+        "/images/singlePageProjects/locksmithguru/locksmithguru3.png"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "/images/home/technology/frontend/javascript.svg"
+        },
+        {
+          "name": "NEXT JS",
+          "logo": "/images/home/technology/frontend/nextjs.png"
+        },
+        {
+          "name": "MERN Stack",
+          "logo": "/images/home/technology/fullstack/mern.svg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "MeriRide_webDesign",
+      "title": "Meri Ride",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/meriride/meriride.png",
+      "mainImage": "/images/meriride.png",
+      "about": "A non-profit organization dedicated to transforming the lives of individuals with different abilities by creating inclusive environments, sustainable income opportunities and self-reliance.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/meriride/meriride1.png",
+        "/images/singlePageProjects/meriride/meriride2.png",
+        "/images/singlePageProjects/meriride/meriride3.png"
+      ],
+      "technologies": [
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "BOOTSTRAP",
+          "logo": "/images/home/technology/frontend/bootstrap.svg"
+        },
+        {
+          "name": "REACT",
+          "logo": "/images/home/technology/frontend/react.svg"
+        },
+        {
+          "name": "NEXT JS",
+          "logo": "/images/home/technology/frontend/nextjs.png"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "umazing_webDesign",
+      "title": "Umazing Official",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/umazing/umazing.png",
+      "mainImage": "/images/umazing.png",
+      "about": "A versatile e-commerce platform where users can effortlessly buy, sell, and manage products across various categories. It provides a seamless shopping experience, connecting buyers with trusted sellers offering quality items.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/umazing/umazing1.png",
+        "/images/singlePageProjects/umazing/umazing2.png",
+        "/images/singlePageProjects/umazing/umazing3.png"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "/images/home/technology/frontend/javascript.svg"
+        },
+        {
+          "name": "NEXT JS",
+          "logo": "/images/home/technology/frontend/nextjs.png"
+        },
+        {
+          "name": "NEST JS",
+          "logo": "/images/home/technology/backend/nestjs.png"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "doky_webDesign",
+      "title": "Doky AI",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/dokyai/dokyai.png",
+      "mainImage": "/images/dokyai.png",
+      "about": "A powerful AI tool to help you extract actionable insights from your legal documents and manage them in your personalized, intuitive dashboard.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/dokyai/dokyai1.png",
+        "/images/singlePageProjects/dokyai/dokyai2.png",
+        "/images/singlePageProjects/dokyai/dokyai3.png"
+      ],
+      "technologies": [
+        {
+          "name": "Chat GPT",
+          "logo": "/images/home/technology/Ai/chatgpt-6.svg"
+        },
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "/images/home/technology/frontend/javascript.svg"
+        },
+        {
+          "name": "NEXT JS",
+          "logo": "/images/home/technology/frontend/nextjs.png"
+        },
+        {
+          "name": "MERN Stack",
+          "logo": "/images/home/technology/fullstack/mern.svg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "jiffy_webDesign",
+      "title": "Jiffy",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/jiffy/jiffy.png",
+      "mainImage": "/images/jiffy.png",
+      "about": "Jiffy is the only delivery service that provides you with an authenticated same day delivery.Our goal is to help your run your daily services in an efficient manner enabling you to save time and thereby aiding your business operations to achieve economies of scale",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/jiffy/jiffy1.png",
+        "/images/singlePageProjects/jiffy/jiffy2.png",
+        "/images/singlePageProjects/jiffy/jiffy3.png"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "/images/home/technology/frontend/javascript.svg"
+        },
+        {
+          "name": "NEXT JS",
+          "logo": "/images/home/technology/frontend/nextjs.png"
+        },
+        {
+          "name": "MERN Stack",
+          "logo": "/images/home/technology/fullstack/mern.svg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "WyzePay_webDesign",
+      "title": "WyzePay",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/wyzepay/wyzepay.png",
+      "mainImage": "/images/wyzepay.png",
+      "about": "We offer a wide range of organic foods, ensuring quality and trust. Our store provides organic products for your health needs. With us, you can shop confidently, knowing that our foods are 100% organic and trustworthy.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/wyzepay/wyzepay.png",
+        "/images/singlePageProjects/wyzepay/wyzepay.png",
+        "/images/singlePageProjects/wyzepay/wyzepay.png"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "/images/home/technology/frontend/javascript.svg"
+        },
+        {
+          "name": "NEXT JS",
+          "logo": "/images/home/technology/frontend/nextjs.png"
+        },
+        {
+          "name": "NEST JS",
+          "logo": "/images/home/technology/backend/nest.png"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "BargainEx_webDesign",
+      "title": "BargainEx",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/bargainex/bargainex.png",
+      "mainImage": "/images/bargainex.png",
+      "about": "Instantly connect with local buyers and sellers on OfferUp! Buy and sell everything from cars and trucks, electronics, furniture, and more.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/bargainex/bargainex1.png",
+        "/images/singlePageProjects/bargainex/bargainex2.png",
+        "/images/singlePageProjects/bargainex/bargainex3.png"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "/images/home/technology/frontend/javascript.svg"
+        },
+        {
+          "name": "NEXT JS",
+          "logo": "/images/home/technology/frontend/nextjs.png"
+        },
+        {
+          "name": "NEST JS",
+          "logo": "/images/home/technology/backend/nestjs.png"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "INFINETWORX_webDesign",
+      "title": "Infinet workx",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/infinetworkx/infinetworkx.png",
+      "mainImage": "/images/infinetworkx.png",
+      "about": "we&apos;re passionate about leveraging technology to build powerful, intuitive solutions that drive business success. Since our inception, we’ve been dedicated to helping clients across industries harness the potential of cutting-edge software and digital tools. Our talented team of developers, designers, and strategists brings deep expertise and innovative thinking to every project, delivering high-quality, reliable, and scalable software solutions",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/infinetworkx/infinetworkx1.png",
+        "/images/singlePageProjects/infinetworkx/infinetworkx2.png",
+        "/images/singlePageProjects/infinetworkx/infinetworkx3.png"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "/images/home/technology/frontend/javascript.svg"
+        }
+      ]
+    }
+  ],
+  "webDev": [
+    {
+      "id": 15,
+      "slug": "aureaoctave",
+      "title": "Aurea Octave",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/web/aureaoctave/main.png",
+      "mainImage": "/images/singlePageProjects/web/aureaoctave/main.png",
+      "about": "Aurea Octave is a premium music and arts platform offering an elegant digital experience for music lovers and creators. It features a stunning design, showcasing events, artists, and musical journeys.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/web/aureaoctave/sneak-1.png",
+        "/images/singlePageProjects/web/aureaoctave/sneak-2.png",
+        "/images/singlePageProjects/web/aureaoctave/sneak-3.png"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "/images/home/technology/frontend/javascript.svg"
+        },
+        {
+          "name": "NEXT JS",
+          "logo": "/images/home/technology/frontend/nextjs.png"
+        },
+        {
+          "name": "React",
+          "logo": "/images/home/technology/frontend/react.svg"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "slug": "smart-logo-maker_webDev",
+      "title": "Smart Logo Maker",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/web/smart-logo-maker_webDev/hero.png",
+      "mainImage": "/case-studies/Smart Logo Maker.png",
+      "about": "An AI-powered logo generation platform that allows users to create professional brand identities in seconds. Featuring a powerful editor, real-time previews, and a seamless user experience across all devices.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/web/smart-logo-maker/sneak-1.png",
+        "/images/singlePageProjects/web/smart-logo-maker/sneak-2.png"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "/images/home/technology/frontend/javascript.svg"
+        },
+        {
+          "name": "NEXT JS",
+          "logo": "/images/home/technology/frontend/nextjs.png"
+        },
+        {
+          "name": "React",
+          "logo": "/images/home/technology/frontend/react.svg"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "slug": "diginizam",
+      "title": "DigiNizam",
+      "description": "",
+      "heroImage": "/case-studies/diginizam-case-study.svg",
+      "mainImage": "/case-studies/diginizam-case-study.svg",
+      "about": "DigiNizam is an AI-powered retail operating system that unifies point-of-sale, inventory, and reporting for growing businesses in Pakistan — restaurants, retail stores, pharmacies, salons, and more — with built-in FBR fiscal integration and local payment methods.",
+      "sneakPeekImages": [
+        "/case-studies/diginizam-case-study.svg",
+        "/case-studies/diginizam-case-study.svg"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "/images/home/technology/frontend/javascript.svg"
+        },
+        {
+          "name": "NEXT JS",
+          "logo": "/images/home/technology/frontend/nextjs.png"
+        },
+        {
+          "name": "React",
+          "logo": "/images/home/technology/frontend/react.svg"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "slug": "rx101",
+      "title": "RX101",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/web/rx101/hero.png",
+      "mainImage": "/images/singlePageProjects/web/rx101/main.png",
+      "about": "A healthcare and pharmacy platform dedicated to improving medication accessibility and patient care experiences.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/web/rx101/sneak-1.png",
+        "/images/singlePageProjects/web/rx101/sneak-2.png"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "NEXT JS",
+          "logo": "/images/home/technology/frontend/nextjs.png"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "slug": "weteachs",
+      "title": "WeTeachs",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/web/weteachs/main.png",
+      "mainImage": "/images/singlePageProjects/web/weteachs/main.png",
+      "about": "WeTeachs is an online education platform connecting real experts with learners around the globe. It enables anyone to teach, learn, or earn by sharing their knowledge through live sessions and courses.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/web/weteachs/sneak-1.png",
+        "/images/singlePageProjects/web/weteachs/sneak-2.png"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "/images/home/technology/frontend/javascript.svg"
+        },
+        {
+          "name": "NEXT JS",
+          "logo": "/images/home/technology/frontend/nextjs.png"
+        },
+        {
+          "name": "React",
+          "logo": "/images/home/technology/frontend/react.svg"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "slug": "chatsupplies",
+      "title": "ChatSupplies",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/web/chatsupplies/hero.png",
+      "mainImage": "/case-studies/ChatSupplies.png",
+      "about": "ChatSupplies is a smart chat solution platform that empowers businesses with intelligent, real-time chat tools and supply management. It delivers a seamless communication experience built for scale.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/web/chatsupplies/sneak-1.png",
+        "/images/singlePageProjects/web/chatsupplies/sneak-2.png",
+        "/images/singlePageProjects/web/chatsupplies/sneak-3.png"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "/images/home/technology/frontend/javascript.svg"
+        },
+        {
+          "name": "NEXT JS",
+          "logo": "/images/home/technology/frontend/nextjs.png"
+        },
+        {
+          "name": "React",
+          "logo": "/images/home/technology/frontend/react.svg"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "slug": "drafidox",
+      "title": "Drafidox",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/web/drafidox/hero.png",
+      "mainImage": "/case-studies/DrafiDox.png",
+      "about": "Drafidox offers powerful AI tools for document, image, and text processing. It simplifies complex tasks with intuitive features, empowering users to work smarter and faster.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/web/drafidox/sneak-1.png",
+        "/images/singlePageProjects/web/drafidox/sneak-2.png"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "/images/home/technology/frontend/javascript.svg"
+        },
+        {
+          "name": "NEXT JS",
+          "logo": "/images/home/technology/frontend/nextjs.png"
+        },
+        {
+          "name": "React",
+          "logo": "/images/home/technology/frontend/react.svg"
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "slug": "certainli",
+      "title": "Certainli",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/web/certainli/hero.png",
+      "mainImage": "/case-studies/Certainli (2).png",
+      "about": "A compliance and certification platform designed to simplify complex regulatory processes for businesses.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/web/certainli/sneak-1.png",
+        "/images/singlePageProjects/web/certainli/sneak-2.png"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "React",
+          "logo": "/images/home/technology/frontend/react.svg"
+        },
+        {
+          "name": "NEXT JS",
+          "logo": "/images/home/technology/frontend/nextjs.png"
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "slug": "alttext_ai",
+      "title": "AltText AI",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/web/alttext_ai/hero.png",
+      "mainImage": "/images/singlePageProjects/web/alttext_ai/main.png",
+      "about": "An intelligent AI solution that automatically generates accurate and descriptive alt text for images to enhance web accessibility.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/web/alttext_ai/sneak-1.png",
+        "/images/singlePageProjects/web/alttext_ai/sneak-2.png"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "React",
+          "logo": "/images/home/technology/frontend/react.svg"
+        },
+        {
+          "name": "Chat GPT",
+          "logo": "/images/home/technology/Ai/chatgpt-6.svg"
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "slug": "hpappen",
+      "title": "HP Appen",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/web/hpappen/hero.png",
+      "mainImage": "/case-studies/Hpappen (2).png",
+      "about": "A comprehensive digital application streamlining real estate, property management, and housing solutions.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/web/hpappen/sneak-1.png",
+        "/images/singlePageProjects/web/hpappen/sneak-2.png"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "React",
+          "logo": "/images/home/technology/frontend/react.svg"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "slug": "jiffy_new",
+      "title": "Jiffy Quick Commerce",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/web/jiffy_new/hero.png",
+      "mainImage": "/images/singlePageProjects/web/jiffy_new/main.png",
+      "about": "A fast and reliable delivery platform providing authenticated same-day service to streamline your daily operations.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/web/jiffy_new/sneak-1.png",
+        "/images/singlePageProjects/web/jiffy_new/sneak-2.png"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "React",
+          "logo": "/images/home/technology/frontend/react.svg"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "RubnGub_webDev",
+      "title": "RubnGub",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/rubngub/rubngub.png",
+      "mainImage": "/images/rubngub.png",
+      "about": "We offer a wide range of organic foods, ensuring quality and trust. Our store provides organic products for your health needs. With us, you can shop confidently, knowing that our foods are 100% organic and trustworthy.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/rubngub/rubngub1.png",
+        "/images/singlePageProjects/rubngub/rubngub2.png",
+        "/images/singlePageProjects/rubngub/rubngub3.png"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "/images/home/technology/frontend/javascript.svg"
+        },
+        {
+          "name": "NEXT JS",
+          "logo": "/images/home/technology/frontend/nextjs.png"
+        },
+        {
+          "name": "NEST JS",
+          "logo": "/images/home/technology/backend/nest.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "slug": "lockSmith_webDev",
+      "title": "LockSmith Guru",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/locksmithguru/locksmithguru.png",
+      "mainImage": "/images/locksmithguru.png",
+      "about": "If you are searching for a locksmith in dubai that provides urgent services whether you are locked out of your car or your home or have broken your office key inside the lock- Locksmith Guru’s experts are just a call away to assist all your locksmith needs!",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/locksmithguru/locksmithguru1.png",
+        "/images/singlePageProjects/locksmithguru/locksmithguru2.png",
+        "/images/singlePageProjects/locksmithguru/locksmithguru3.png"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "/images/home/technology/frontend/javascript.svg"
+        },
+        {
+          "name": "NEXT JS",
+          "logo": "/images/home/technology/frontend/nextjs.png"
+        },
+        {
+          "name": "MERN Stack",
+          "logo": "/images/home/technology/fullstack/mern.svg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "MeriRide_webDev",
+      "title": "Meri Ride",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/meriride/meriride.png",
+      "mainImage": "/images/meriride.png",
+      "about": "A non-profit organization dedicated to transforming the lives of individuals with different abilities by creating inclusive environments, sustainable income opportunities and self-reliance.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/meriride/meriride1.png",
+        "/images/singlePageProjects/meriride/meriride2.png",
+        "/images/singlePageProjects/meriride/meriride3.png"
+      ],
+      "technologies": [
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "BOOTSTRAP",
+          "logo": "/images/home/technology/frontend/bootstrap.svg"
+        },
+        {
+          "name": "REACT",
+          "logo": "/images/home/technology/frontend/react.svg"
+        },
+        {
+          "name": "NEXT JS",
+          "logo": "/images/home/technology/frontend/nextjs.png"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "umazing_webDev",
+      "title": "Umazing Official",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/umazing/umazing.png",
+      "mainImage": "/images/umazing.png",
+      "about": "A versatile e-commerce platform where users can effortlessly buy, sell, and manage products across various categories. It provides a seamless shopping experience, connecting buyers with trusted sellers offering quality items.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/umazing/umazing1.png",
+        "/images/singlePageProjects/umazing/umazing2.png",
+        "/images/singlePageProjects/umazing/umazing3.png"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "/images/home/technology/frontend/javascript.svg"
+        },
+        {
+          "name": "NEXT JS",
+          "logo": "/images/home/technology/frontend/nextjs.png"
+        },
+        {
+          "name": "NEST JS",
+          "logo": "/images/home/technology/backend/nestjs.png"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "doky_webDev",
+      "title": "Doky AI",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/dokyai/dokyai.png",
+      "mainImage": "/images/dokyai.png",
+      "about": "A powerful AI tool to help you extract actionable insights from your legal documents and manage them in your personalized, intuitive dashboard.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/dokyai/dokyai1.png",
+        "/images/singlePageProjects/dokyai/dokyai2.png",
+        "/images/singlePageProjects/dokyai/dokyai3.png"
+      ],
+      "technologies": [
+        {
+          "name": "Chat GPT",
+          "logo": "/images/home/technology/Ai/chatgpt-6.svg"
+        },
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "/images/home/technology/frontend/javascript.svg"
+        },
+        {
+          "name": "NEXT JS",
+          "logo": "/images/home/technology/frontend/nextjs.png"
+        },
+        {
+          "name": "MERN Stack",
+          "logo": "/images/home/technology/fullstack/mern.svg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "jiffy_webDev",
+      "title": "Jiffy",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/jiffy/jiffy.png",
+      "mainImage": "/images/jiffy.png",
+      "about": "Jiffy is the only delivery service that provides you with an authenticated same day delivery.Our goal is to help your run your daily services in an efficient manner enabling you to save time and thereby aiding your business operations to achieve economies of scale",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/jiffy/jiffy1.png",
+        "/images/singlePageProjects/jiffy/jiffy2.png",
+        "/images/singlePageProjects/jiffy/jiffy3.png"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "/images/home/technology/frontend/javascript.svg"
+        },
+        {
+          "name": "NEXT JS",
+          "logo": "/images/home/technology/frontend/nextjs.png"
+        },
+        {
+          "name": "MERN Stack",
+          "logo": "/images/home/technology/fullstack/mern.svg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "WyzePay_webDev",
+      "title": "WyzePay",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/wyzepay/wyzepay.png",
+      "mainImage": "/images/wyzepay.png",
+      "about": "We offer a wide range of organic foods, ensuring quality and trust. Our store provides organic products for your health needs. With us, you can shop confidently, knowing that our foods are 100% organic and trustworthy.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/wyzepay/wyzepay.png",
+        "/images/singlePageProjects/wyzepay/wyzepay.png",
+        "/images/singlePageProjects/wyzepay/wyzepay.png"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "/images/home/technology/frontend/javascript.svg"
+        },
+        {
+          "name": "NEXT JS",
+          "logo": "/images/home/technology/frontend/nextjs.png"
+        },
+        {
+          "name": "NEST JS",
+          "logo": "/images/home/technology/backend/nest.png"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "BargainEx_webDev",
+      "title": "BargainEx",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/bargainex/bargainex.png",
+      "mainImage": "/images/bargainex.png",
+      "about": "Instantly connect with local buyers and sellers on OfferUp! Buy and sell everything from cars and trucks, electronics, furniture, and more.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/bargainex/bargainex1.png",
+        "/images/singlePageProjects/bargainex/bargainex2.png",
+        "/images/singlePageProjects/bargainex/bargainex3.png"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "/images/home/technology/frontend/javascript.svg"
+        },
+        {
+          "name": "NEXT JS",
+          "logo": "/images/home/technology/frontend/nextjs.png"
+        },
+        {
+          "name": "NEST JS",
+          "logo": "/images/home/technology/backend/nestjs.png"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "INFINETWORX_webDev",
+      "title": "Infinet workx",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/infinetworkx/infinetworkx.png",
+      "mainImage": "/images/infinetworkx.png",
+      "about": "we&apos;re passionate about leveraging technology to build powerful, intuitive solutions that drive business success. Since our inception, we’ve been dedicated to helping clients across industries harness the potential of cutting-edge software and digital tools. Our talented team of developers, designers, and strategists brings deep expertise and innovative thinking to every project, delivering high-quality, reliable, and scalable software solutions",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/infinetworkx/infinetworkx1.png",
+        "/images/singlePageProjects/infinetworkx/infinetworkx2.png",
+        "/images/singlePageProjects/infinetworkx/infinetworkx3.png"
+      ],
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "/images/home/technology/frontend/html5.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/images/home/technology/frontend/css3.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "/images/home/technology/frontend/javascript.svg"
+        }
+      ]
+    }
+  ],
+  "appDev": [
+    {
+      "id": 14,
+      "slug": "weteachs",
+      "title": "WeTeachs",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/app/weteachs/hero.png",
+      "mainImage": "/images/weteachs.png",
+      "about": "WeTeachs is an innovative educational platform designed to bridge the gap between experts and learners. Through its intuitive mobile interface, users can access live sessions, interactive courses, and a wealth of knowledge across various domains, making learning accessible anytime, anywhere.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/app/weteachs/sneak-1.png",
+        "/images/singlePageProjects/app/weteachs/sneak-2.png"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "logo": "/images/home/technology/mobile/flutter.svg"
+        },
+        {
+          "name": "Android",
+          "logo": "/images/home/technology/mobile/android.svg"
+        },
+        {
+          "name": "iOS",
+          "logo": "/images/home/technology/mobile/ios.svg"
+        },
+        {
+          "name": "Node JS",
+          "logo": "/images/home/technology/backend/nodejs.svg"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "slug": "InstaCalm",
+      "title": "InstaCalm",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/app/instacalm/hero.png",
+      "mainImage": "/images/instacalm.png",
+      "about": "InstaCalm is a professional anxiety treatment and stress relief application. Developed by certified hypnotherapists, it offers specialized hypnotic treatments, CBT-based therapy relief, and progress tracking to help users overcome fears, stress-triggered habits, and anxiety symptoms effectively.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/app/instacalm/sneak-1.png",
+        "/images/singlePageProjects/app/instacalm/sneak-2.png"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "logo": "/images/home/technology/mobile/flutter.svg"
+        },
+        {
+          "name": "Android",
+          "logo": "/images/home/technology/mobile/android.svg"
+        },
+        {
+          "name": "iOS",
+          "logo": "/images/home/technology/mobile/ios.svg"
+        },
+        {
+          "name": "Node JS",
+          "logo": "/images/home/technology/backend/nodejs.svg"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "slug": "circleup",
+      "title": "CircleUp",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/app/circleup/hero.png",
+      "mainImage": "/images/circleup.png",
+      "about": "CircleUp is a dynamic social networking and event-discovery platform designed to help users find their community and make lasting memories. Whether it's joining a local social circle, participating in a pub crawl, or attending cultural events, CircleUp makes connecting with others seamless and engaging.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/app/circleup/sneak-1.png",
+        "/images/singlePageProjects/app/circleup/sneak-2.png",
+        "/images/singlePageProjects/app/circleup/sneak-3.png",
+        "/images/singlePageProjects/app/circleup/sneak-4.png"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "logo": "/images/home/technology/mobile/flutter.svg"
+        },
+        {
+          "name": "Android",
+          "logo": "/images/home/technology/mobile/android.svg"
+        },
+        {
+          "name": "iOS",
+          "logo": "/images/home/technology/mobile/ios.svg"
+        },
+        {
+          "name": "Firebase",
+          "logo": "/images/home/technology/backend/firebase.svg"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "slug": "fams",
+      "title": "FAMS",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/app/fams/hero.png",
+      "mainImage": "/images/fams.png",
+      "about": "FAMS by Falkenherz is a cutting-edge fleet management and IoT solution. It provides real-time tracking, advanced diagnostics, and smart urban mobility features, ensuring seamless connectivity and efficiency for modern city transportation.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/app/fams/sneak-1.png",
+        "/images/singlePageProjects/app/fams/sneak-2.png"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "logo": "/images/home/technology/mobile/flutter.svg"
+        },
+        {
+          "name": "Android",
+          "logo": "/images/home/technology/mobile/android.svg"
+        },
+        {
+          "name": "iOS",
+          "logo": "/images/home/technology/mobile/ios.svg"
+        },
+        {
+          "name": "Node JS",
+          "logo": "/images/home/technology/backend/nodejs.svg"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "slug": "mood-social",
+      "title": "Mood Social",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/app/moodsocial/hero.png",
+      "mainImage": "/images/moodsocial.png",
+      "about": "Mood Social is a vibrant event-discovery and social networking platform. It helps users experience the best events in their city together, fostering community engagement and providing a seamless way to connect and share experiences.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/app/moodsocial/sneak-1.png",
+        "/images/singlePageProjects/app/moodsocial/sneak-2.png"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "logo": "/images/home/technology/mobile/flutter.svg"
+        },
+        {
+          "name": "Android",
+          "logo": "/images/home/technology/mobile/android.svg"
+        },
+        {
+          "name": "iOS",
+          "logo": "/images/home/technology/mobile/ios.svg"
+        },
+        {
+          "name": "Firebase",
+          "logo": "/images/home/technology/backend/firebase.svg"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "slug": "salamly",
+      "title": "Salamly",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/app/salamly/hero.png",
+      "mainImage": "/images/salamly_center.png",
+      "about": "Salamly is an all-in-one Halal utility and social application designed for the Muslim community. With the tagline 'Social media and Muslim utility support all in one app', it integrates essential spiritual tools like accurate prayer times and Qibla direction with a vibrant community platform for sharing spiritual journeys and Halal choices.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/app/salamly/sneak-1.png",
+        "/images/singlePageProjects/app/salamly/sneak-2.png",
+        "/images/singlePageProjects/app/salamly/sneak-3.png"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "logo": "/images/home/technology/mobile/flutter.svg"
+        },
+        {
+          "name": "Android",
+          "logo": "/images/home/technology/mobile/android.svg"
+        },
+        {
+          "name": "iOS",
+          "logo": "/images/home/technology/mobile/ios.svg"
+        },
+        {
+          "name": "Node JS",
+          "logo": "/images/home/technology/backend/nodejs.svg"
+        },
+        {
+          "name": "Firebase",
+          "logo": "/images/home/technology/backend/firebase.svg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "smart-logo-maker",
+      "title": "Smart Logo Maker",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/app/smart-logo-maker/hero.png",
+      "mainImage": "/case-studies/Smart Logo Maker.png",
+      "about": "Smart Logo Maker helps you create professional and unique logos in seconds. With powerful AI-driven tools, a vast library of icons, and advanced customization, designing your brand identity has never been easier.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/app/smartlogomaker/smartlogomaker1.jpg",
+        "/images/singlePageProjects/app/smartlogomaker/smartlogomaker2.jpg",
+        "/images/singlePageProjects/app/smartlogomaker/smartlogomaker3.jpg",
+        "/images/singlePageProjects/app/smartlogomaker/smartlogomaker4.jpg"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "logo": "/images/home/technology/mobile/flutter.svg"
+        },
+        {
+          "name": "Android",
+          "logo": "/images/home/technology/mobile/android.svg"
+        },
+        {
+          "name": "iOS",
+          "logo": "/images/home/technology/mobile/ios.svg"
+        },
+        {
+          "name": "Node JS",
+          "logo": "/images/home/technology/backend/nodejs.svg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "drafidox",
+      "title": "Drafidox",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/app/drafidox/hero.png",
+      "mainImage": "/case-studies/DrafiDox.png",
+      "about": "Drafidox is a high-performance document conversion platform that simplifies your workflow. With support for PDF to Word, Word to PDF, image-to-text, and more, it provides a seamless and secure experience for users and businesses alike.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/app/drafidox/drafidox1.png",
+        "/images/singlePageProjects/app/drafidox/drafidox2.png",
+        "/images/singlePageProjects/app/drafidox/drafidox.png",
+        "/images/singlePageProjects/app/drafidox/drafidox3.png"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "logo": "/images/home/technology/mobile/flutter.svg"
+        },
+        {
+          "name": "Android",
+          "logo": "/images/home/technology/mobile/android.svg"
+        },
+        {
+          "name": "iOS",
+          "logo": "/images/home/technology/mobile/ios.svg"
+        },
+        {
+          "name": "Node JS",
+          "logo": "/images/home/technology/backend/nodejs.svg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "Promoters",
+      "title": "Promoters",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/app/promoters/promoters.png",
+      "mainImage": "/images/promoters.png",
+      "about": "Promoters provides tailored solutions to boost your business. From corporate websites to ecommerce platforms, we deliver user-friendly, visually appealing, high-performance designs. With cutting-edge technology, we build strong online presences that align with your vision and goals.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/app/promoters/promoters1.png",
+        "/images/singlePageProjects/app/promoters/promoters2.png",
+        "/images/singlePageProjects/app/promoters/promoters3.png"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "logo": "/images/home/technology/mobile/flutter.svg"
+        },
+        {
+          "name": "Android",
+          "logo": "/images/home/technology/mobile/android.svg"
+        },
+        {
+          "name": "iOS",
+          "logo": "/images/home/technology/mobile/ios.svg"
+        },
+        {
+          "name": "Java",
+          "logo": "/images/home/technology/mobile/java.svg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "ohready",
+      "title": "Oh Ready",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/app/ohready/ohready.png",
+      "mainImage": "/images/ohready.png",
+      "about": "With Oh Ready you can order food from your mobile phone in your town. Oh Ready will delivery your food at your door step",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/app/ohready/ohready1.png",
+        "/images/singlePageProjects/app/ohready/ohready2.png",
+        "/images/singlePageProjects/app/ohready/ohready3.png"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "logo": "/images/home/technology/mobile/flutter.svg"
+        },
+        {
+          "name": "Android",
+          "logo": "/images/home/technology/mobile/android.svg"
+        },
+        {
+          "name": "iOS",
+          "logo": "/images/home/technology/mobile/ios.svg"
+        },
+        {
+          "name": "Java",
+          "logo": "/images/home/technology/mobile/java.svg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "wirdBook",
+      "title": "The Wird Book",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/app/wirdbook/wirdbook.png",
+      "mainImage": "/images/wirdbook.png",
+      "about": "The Wird Book is a compilation of litanies based on Prophetic traditions as recommended by Imam Abulhasan Al-Shadhili, the Master of the Qadiri-Shadhili Tariqah that is connected in chain to the Most Beloved Prophet, peace be upon him.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/app/wirdbook/wirdbook1.png",
+        "/images/singlePageProjects/app/wirdbook/wirdbook2.png",
+        "/images/singlePageProjects/app/wirdbook/wirdbook3.png"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "logo": "/images/home/technology/mobile/flutter.svg"
+        },
+        {
+          "name": "Android",
+          "logo": "/images/home/technology/mobile/android.svg"
+        },
+        {
+          "name": "iOS",
+          "logo": "/images/home/technology/mobile/ios.svg"
+        },
+        {
+          "name": "Java",
+          "logo": "/images/home/technology/mobile/java.svg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "mx-player",
+      "title": "MX Player",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/app/mxplayer/mxplayer.jpg",
+      "mainImage": "/images/mxplayer.jpg",
+      "about": "MX Player is a powerful video player with advanced hardware acceleration, subtitle support, and an intuitive user interface. Enjoy seamless video playback, smart library organization, and customizable viewing experiences.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/app/mxplayer/mxplayer1.jpg",
+        "/images/singlePageProjects/app/mxplayer/mxplayer2.jpg",
+        "/images/singlePageProjects/app/mxplayer/mxplayer3.jpg",
+        "/images/singlePageProjects/app/mxplayer/mxplayer4.jpg"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "logo": "/images/home/technology/mobile/flutter.svg"
+        },
+        {
+          "name": "Android",
+          "logo": "/images/home/technology/mobile/android.svg"
+        },
+        {
+          "name": "iOS",
+          "logo": "/images/home/technology/mobile/ios.svg"
+        },
+        {
+          "name": "Node JS",
+          "logo": "/images/home/technology/backend/nodejs.svg"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "autism-support",
+      "title": "Autism Support",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/app/autismsupport/autismsupport.jpg",
+      "mainImage": "/images/autismsupport.jpg",
+      "about": "Autism Support is an educational and supportive application tailored for children on the autism spectrum and their families. It features engaging learning modules, emotional recognition exercises, and dedicated family resources to foster a nurturing environment.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/app/autismsupport/autismsupport1.jpg",
+        "/images/singlePageProjects/app/autismsupport/autismsupport2.jpg"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "logo": "/images/home/technology/mobile/flutter.svg"
+        },
+        {
+          "name": "Android",
+          "logo": "/images/home/technology/mobile/android.svg"
+        },
+        {
+          "name": "iOS",
+          "logo": "/images/home/technology/mobile/ios.svg"
+        },
+        {
+          "name": "Node JS",
+          "logo": "/images/home/technology/backend/nodejs.svg"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "abc-kids",
+      "title": "ABC Kids",
+      "description": "",
+      "heroImage": "/images/singlePageProjects/app/abckids/abckids.jpg",
+      "mainImage": "/images/abckids.jpg",
+      "about": "ABC Kids is a fun and interactive educational application designed to help young children learn the alphabet, numbers, and basic words through engaging visuals and playful activities. It provides a safe and stimulating environment for early childhood learning.",
+      "sneakPeekImages": [
+        "/images/singlePageProjects/app/abckids/abckids1.jpg",
+        "/images/singlePageProjects/app/abckids/abckids2.jpg",
+        "/images/singlePageProjects/app/abckids/abckids3.jpg",
+        "/images/singlePageProjects/app/abckids/abckids4.jpg"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "logo": "/images/home/technology/mobile/flutter.svg"
+        },
+        {
+          "name": "Android",
+          "logo": "/images/home/technology/mobile/android.svg"
+        },
+        {
+          "name": "iOS",
+          "logo": "/images/home/technology/mobile/ios.svg"
+        },
+        {
+          "name": "Node JS",
+          "logo": "/images/home/technology/backend/nodejs.svg"
+        }
+      ]
+    }
+  ]
+}

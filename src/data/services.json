@@ -1,0 +1,219 @@
+[
+  {
+    "id": "ai-automation",
+    "slug": "ai-automation",
+    "label": "AI Automation & Agents",
+    "shortLabel": "AI Agent",
+    "color": "#00C9A7",
+    "glow": "rgba(0,201,167,0.35)",
+    "navLabel": "AI Automation",
+    "cardImage": "/list/list1_new.png",
+    "heroEyebrow": "AI Automation",
+    "heroTitle": "Automate Your Business Operations With AI Agents & Smart Workflows",
+    "heroDescription": "We build intelligent automation systems that reduce manual work, qualify leads automatically, and connect your tools \u2014 so your team can focus on what matters.",
+    "mainTitle": "AI Automation & Agents",
+    "title": "AI Automation",
+    "subtitle": "& Agents",
+    "mainDescription": "We design and build AI automation systems that replace repetitive manual processes with intelligent workflows. From lead qualification chatbots to CRM integrations, internal knowledge assistants, and WhatsApp/email automation \u2014 we connect your tools and let AI handle the routine so your team can focus on high-value work.",
+    "highlightTitle": "What We Automate",
+    "highlights": [
+      {
+        "title": "AI Chatbots & Lead Qualification",
+        "description": "Chatbots that answer queries, qualify leads, and hand off to your team \u2014 on your website, WhatsApp, or Slack."
+      },
+      {
+        "title": "CRM & Email Automation",
+        "description": "Automated pipelines connecting your CRM, email platform, and communication tools using n8n, Make, or Zapier."
+      },
+      {
+        "title": "RAG & Knowledge Assistants",
+        "description": "Internal AI assistants trained on your documents, SOPs, and data \u2014 so your team gets instant answers."
+      },
+      {
+        "title": "Reporting & Workflow Automation",
+        "description": "Auto-generated reports, scheduled summaries, and cross-tool data sync that replace hours of manual work."
+      }
+    ],
+    "technologies": [
+      "OpenAI",
+      "LangChain",
+      "n8n",
+      "Make",
+      "Zapier",
+      "Supabase",
+      "FastAPI",
+      "WhatsApp API",
+      "Slack API",
+      "RAG",
+      "Pinecone",
+      "PostgreSQL"
+    ],
+    "projects": [
+      "/portfolio/portfolio1.png",
+      "/portfolio/portfolio2.png",
+      "/portfolio/portfolio3.png"
+    ]
+  },
+  {
+    "id": "saas-mvp",
+    "slug": "saas-mvp",
+    "label": "SaaS MVP Development",
+    "shortLabel": "SaaS MVP",
+    "color": "#4B8EF1",
+    "glow": "rgba(75,142,241,0.35)",
+    "navLabel": "SaaS MVP",
+    "cardImage": "/list/list2_new.png",
+    "heroEyebrow": "SaaS Development",
+    "heroTitle": "Build Your SaaS Product From POC to Scalable Platform",
+    "heroDescription": "We plan, design, and build subscription-based SaaS products \u2014 from early prototypes to multi-tenant platforms with billing, admin panels, and user dashboards.",
+    "mainTitle": "SaaS MVP Development",
+    "title": "SaaS MVP",
+    "subtitle": "Development",
+    "mainDescription": "We help founders and product teams move from idea to working SaaS product. Our process covers technical planning, UI/UX design, multi-tenant architecture, subscription billing, admin panels, analytics, and deployment \u2014 everything needed to launch and start acquiring real users.",
+    "highlightTitle": "What We Build",
+    "highlights": [
+      {
+        "title": "Multi-Tenant SaaS Platforms",
+        "description": "Scalable architecture supporting multiple clients with isolated data, custom roles, and subscription management."
+      },
+      {
+        "title": "Subscription Billing & Admin",
+        "description": "Stripe or Paddle integration with usage-based billing, plan management, invoices, and a full admin dashboard."
+      },
+      {
+        "title": "AI-Powered SaaS Products",
+        "description": "SaaS products with built-in AI features \u2014 smart recommendations, automated analysis, or GPT-powered tools."
+      },
+      {
+        "title": "POC \u2192 Prototype \u2192 MVP \u2192 Scale",
+        "description": "Structured delivery phases from technical validation to investor-ready prototype to production-grade SaaS."
+      }
+    ],
+    "technologies": [
+      "Next.js",
+      "React",
+      "NestJS",
+      "FastAPI",
+      "PostgreSQL",
+      "Supabase",
+      "Stripe",
+      "Docker",
+      "AWS",
+      "Tailwind CSS",
+      "Prisma"
+    ],
+    "projects": [
+      "/portfolio/portfolio4.png",
+      "/portfolio/portfolio5.png",
+      "/portfolio/portfolio6.png"
+    ]
+  },
+  {
+    "id": "software-development",
+    "slug": "software-development",
+    "label": "Custom Software Development",
+    "shortLabel": "Software Dev",
+    "color": "#6B4CF5",
+    "glow": "rgba(107,76,245,0.35)",
+    "navLabel": "Custom Software",
+    "cardImage": "/list/list3_new.png",
+    "heroEyebrow": "Custom Software Development",
+    "heroTitle": "Custom Software Applications Built Around Your Business Operations",
+    "heroDescription": "From internal dashboards and CRMs to booking systems and client portals \u2014 we build web applications that make your operations faster, cleaner, and more manageable.",
+    "mainTitle": "Custom Software Development",
+    "title": "Software",
+    "subtitle": "Development",
+    "mainDescription": "We build purpose-built web applications for businesses that have outgrown generic tools. Our team designs and engineers dashboards, CRMs, admin panels, booking systems, role-based portals, and internal tools \u2014 all tailored to how your team actually works.",
+    "highlightTitle": "What We Build",
+    "highlights": [
+      {
+        "title": "Dashboards & Internal Tools",
+        "description": "Data-rich dashboards, team management tools, and internal apps that improve visibility and operational efficiency."
+      },
+      {
+        "title": "CRMs & Client Portals",
+        "description": "Custom CRM systems and client-facing portals with role-based access, activity tracking, and document management."
+      },
+      {
+        "title": "Booking & Scheduling Systems",
+        "description": "Reservation, scheduling, and appointment systems for service businesses, clinics, and hospitality."
+      },
+      {
+        "title": "Role-Based Access & Workflows",
+        "description": "Multi-role systems with granular permissions, approval workflows, and audit trails for complex operations."
+      }
+    ],
+    "technologies": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "NestJS",
+      "Node.js",
+      "PostgreSQL",
+      "MySQL",
+      "Prisma",
+      "Tailwind CSS",
+      "Docker",
+      "Vercel"
+    ],
+    "projects": [
+      "/portfolio/portfolio7.png",
+      "/portfolio/portfolio8.png",
+      "/portfolio/portfolio9.png"
+    ]
+  },
+  {
+    "id": "app-rescue-maintenance",
+    "slug": "app-rescue-maintenance",
+    "label": "App Rescue, Bug Fixing & Maintenance",
+    "shortLabel": "Rescue",
+    "color": "#f59e0b",
+    "glow": "rgba(245,158,11,0.35)",
+    "navLabel": "App Rescue",
+    "cardImage": "/list/list6_new.png",
+    "heroEyebrow": "App Rescue",
+    "heroTitle": "We Fix, Stabilize & Improve Broken or Struggling Applications",
+    "heroDescription": "Whether your app has critical bugs, performance problems, or needs a technical audit \u2014 we run focused rescue sprints to get it working, stable, and ready for users.",
+    "mainTitle": "App Rescue, Bug Fixing & Maintenance",
+    "title": "App Rescue",
+    "subtitle": "Bug Fixing & Support",
+    "mainDescription": "We take over applications that are broken, slow, or poorly maintained. Our rescue sprints cover technical audits, critical bug fixing, performance improvements, deployment stabilization, and ongoing monthly maintenance retainers for teams that need reliable support without hiring in-house.",
+    "highlightTitle": "What We Fix",
+    "highlights": [
+      {
+        "title": "Technical Audits & Reviews",
+        "description": "Full codebase, API, UI, and infrastructure review \u2014 delivered as a prioritized improvement report."
+      },
+      {
+        "title": "Bug Fix Sprints",
+        "description": "Focused 1-week sprints to identify, fix, and deploy critical bugs in your web or mobile application."
+      },
+      {
+        "title": "Performance & Deployment Fixes",
+        "description": "Slow page loads, API bottlenecks, server misconfigurations, and broken CI/CD pipelines resolved and documented."
+      },
+      {
+        "title": "Monthly Maintenance Retainers",
+        "description": "Ongoing support covering bug fixes, minor updates, monitoring, and monthly status reports."
+      }
+    ],
+    "technologies": [
+      "React",
+      "Next.js",
+      "Flutter",
+      "NestJS",
+      "Node.js",
+      "PostgreSQL",
+      "Docker",
+      "AWS",
+      "Sentry",
+      "Datadog",
+      "GitHub Actions"
+    ],
+    "projects": [
+      "/portfolio/portfolio7.png",
+      "/portfolio/portfolio8.png",
+      "/portfolio/portfolio9.png"
+    ]
+  }
+]

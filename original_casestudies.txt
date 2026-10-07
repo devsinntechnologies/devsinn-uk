@@ -1,0 +1,47 @@
+const projects = [\
+  {\
+    name: \"ChatSupplies\",\
+    category: \"AI / SaaS / Customer Support\",\
+    image: \"/case-studies/chatsupplies.png\",\
+    impact: \"AI-driven customer operations that reduced response time by 60%.\",\
+    link: \"/case-studies/chatsupplies\",\
+    noScroll: true,\
+    bgColor: \"#0156B4\",\
+  },\
+  {\
+    name: \"Certainli\",\
+    category: \"Compliance / SaaS\",\
+    image: \"/case-studies/certainli.png\",\
+    impact: \"Streamlined compliance and certification processes for enterprise businesses.\",\
+    link: \"/case-studies/certainli\",\
+    noScroll: true,\
+    bgColor: \"#f4f7f6\",\
+  },\
+  {\
+    name: \"Drafidox\",\
+    category: \"Web + Mobile / Document Tools Platform\",\
+    image: \"/case-studies/drafidox.png\",\
+    impact: \"Consolidated multiple image and document workflows into a single workspace.\",\
+    link: \"/case-studies/drafidox\",\
+    noScroll: true,\
+    bgColor: \"#f3f6f8\",\
+  },\
+  {\
+    name: \"HP Appen\",\
+    category: \"Real Estate / Digital Application\",\
+    image: \"/case-studies/hpappen.png\",\
+    impact: \"A comprehensive application streamlining real estate and housing solutions.\",\
+    link: \"/case-studies/hpappen\",\
+    noScroll: true,\
+    bgColor: \"#f8f7fc\",\
+  },\
+  {\
+    name: \"Iqra Quran\",\
+    category: \"Mobile App / Education\",\
+    image: \"/case-studies/iqra-quran.png\",\
+    impact: \"An interactive educational app tailored for learning and reading the Quran.\",\
+    link: \"/case-studies/iqra-quran\",\
+    noScroll: true,\
+    bgColor: \"#f4f7f6\",\
+  }\
+];
