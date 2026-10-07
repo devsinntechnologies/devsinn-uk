@@ -1,22 +1,22 @@
 "use client";
 
+import Image from "next/image";
 import { motion, useReducedMotion } from "framer-motion";
-import { UserRound } from "lucide-react";
 
-// TODO: confirm title, bio, highlights and LinkedIn URL with Waqar.
 const founder = {
   name: "Waqar",
-  role: "Founder & CEO — Devsinn Technologies",
+  role: "Founder & CEO, Devsinn Technologies",
   linkedin: "https://www.linkedin.com/company/devsinn-technologies/",
+  photo: "/waqar-founder.jpg",
   bio: [
-    "I help founders and growing businesses turn ideas into working software — AI automation, SaaS products, and custom platforms that remove manual work and create real leverage.",
-    "For 8+ years I've led Devsinn in planning, building, and supporting products for clients worldwide. Outcomes first, technology second — practical systems that ship and keep running.",
+    "I help founders and growing businesses turn ideas into working software — AI automation, SaaS products, and custom platforms that cut manual work and create real leverage.",
+    "For 8+ years I have led Devsinn in planning, building, and supporting products for clients worldwide. Outcomes first, technology second — practical systems that ship and stay running.",
   ],
   highlights: [
-    "8+ Years Leading Devsinn",
-    "100+ Projects Delivered",
-    "15+ Engineers & Consultants",
-    "4.9/5 Average Client Rating",
+    "8+ years leading Devsinn",
+    "100+ projects delivered",
+    "15+ engineers & consultants",
+    "4.9/5 average client rating",
   ],
 };
 
@@ -40,14 +40,18 @@ export default function HomeFounder() {
       <div className="relative z-10 mx-auto grid w-full max-w-[1280px] items-center gap-10 md:grid-cols-[minmax(0,340px)_1fr] lg:grid-cols-[minmax(0,385px)_1fr] lg:gap-16">
         <motion.div className="relative mx-auto w-full max-w-[385px]" {...reveal()}>
           <div className="pointer-events-none absolute inset-0 translate-x-3 translate-y-3 rounded-2xl border border-teal/40" />
-          <div
-            className="relative flex aspect-[4/5] items-center justify-center overflow-hidden rounded-2xl border border-white/10 bg-[#11141a]"
-            role="img"
-            aria-label={`${founder.name}, ${founder.role}`}
-          >
-            <span className="flex h-36 w-36 items-center justify-center rounded-full bg-teal/15 text-[#7AA8FF] sm:h-40 sm:w-40">
-              <UserRound size={72} strokeWidth={1.4} aria-hidden />
-            </span>
+          <div className="group relative aspect-[4/5] overflow-hidden rounded-2xl border border-white/10 bg-[#11141a]">
+            <Image
+              src={founder.photo}
+              alt={`${founder.name}, ${founder.role}`}
+              fill
+              sizes="(min-width: 1024px) 385px, (min-width: 768px) 340px, 90vw"
+              className="object-cover object-[center_12%] grayscale contrast-110 transition-[filter] duration-700 ease-out group-hover:grayscale-0 group-hover:contrast-100 group-focus-within:grayscale-0 motion-reduce:transition-none"
+            />
+            <div
+              className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/35 via-transparent to-black/10 transition-opacity duration-700 group-hover:opacity-0"
+              aria-hidden
+            />
           </div>
         </motion.div>
 

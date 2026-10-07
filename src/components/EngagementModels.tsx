@@ -204,7 +204,7 @@ export default function EngagementModels() {
             whileInView="visible"
             viewport={{ once: true }}
           >
-            Whether you need a quick automation sprint or a dedicated team for full product delivery, we have an model for you.
+            Whether you need a quick automation sprint or a dedicated team for full product delivery, we have a model for you.
           </motion.p>
         </div>
 

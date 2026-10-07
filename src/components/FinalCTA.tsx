@@ -9,9 +9,10 @@ const CONTACT_EMAIL = "info@devsinntechnologies.com";
 
 const points = [
   "30 minutes with Waqar directly",
-  "Remote · No commitment required",
+  "Weekdays, 9am–5pm UK time",
+  "Remote · no commitment required",
   "You'll know the right next step before you leave the call",
-  "Reply within 1 business day",
+  "Reply within one business day",
 ];
 
 export default function FinalCTA() {
