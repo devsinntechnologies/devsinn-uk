@@ -8,7 +8,7 @@ const CALENDLY_URL =
 const CONTACT_EMAIL = "info@devsinntechnologies.com";
 
 const points = [
-  "30 minutes with Waqar directly",
+  "30 minutes with Waqar Malik directly",
   "Weekdays, 9am–5pm UK time",
   "Remote · no commitment required",
   "You'll know the right next step before you leave the call",
