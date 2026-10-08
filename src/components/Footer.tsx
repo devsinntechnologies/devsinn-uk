@@ -25,7 +25,6 @@ const columns = [
     links: [
       { label: "About Us", href: "/about" },
       { label: "Case Studies", href: "/case-studies" },
-      { label: "Careers", href: "/careers" },
       { label: "Blog", href: "/blog" },
       { label: "Contact Us", href: "/contact" },
     ],
@@ -48,7 +47,7 @@ const legalLinks = [
   { label: "Terms of Use", href: "/termsandconditions" },
 ];
 
-const CONTACT_EMAIL = "info@devsinntechnologies.com";
+const CONTACT_EMAIL = "hello@devsinn.co.uk";
 const CONTACT_PHONE = "+92 336 5918295";
 
 const socials = [

@@ -32,8 +32,8 @@ const WHATSAPP_URL = "https://api.whatsapp.com/send?phone=923365918295";
 const contactDetails = [
   {
     title: "Email",
-    value: "info@devsinntechnologies.com",
-    href: "mailto:info@devsinntechnologies.com",
+    value: "hello@devsinn.co.uk",
+    href: "mailto:hello@devsinn.co.uk",
     external: false,
     icon: Mail,
   },

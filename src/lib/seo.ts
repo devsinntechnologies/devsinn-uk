@@ -46,7 +46,7 @@ export const organizationSchema = {
   logo: `${SITE_URL}/favicon-512x512.png`,
   image: `${SITE_URL}/favicon-512x512.png`,
   description: defaultDescription,
-  email: "info@devsinntechnologies.com",
+  email: "hello@devsinn.co.uk",
   telephone: "+92-336-5918295",
   address: {
     "@type": "PostalAddress",
@@ -61,7 +61,7 @@ export const organizationSchema = {
   contactPoint: {
     "@type": "ContactPoint",
     contactType: "sales",
-    email: "info@devsinntechnologies.com",
+    email: "hello@devsinn.co.uk",
     telephone: "+92-336-5918295",
     availableLanguage: ["English"],
   },

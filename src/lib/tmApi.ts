@@ -87,7 +87,7 @@ async function request<T>(path: string, options: RequestInit = {}, authed = fals
     const base = getTmApiBaseUrl();
     if (!base) {
       throw new Error(
-        "The careers API is not configured yet (set NEXT_PUBLIC_TM_API_URL to the Team Portal backend URL).",
+        "The API is not configured yet (set NEXT_PUBLIC_TM_API_URL to the Team Portal backend URL).",
       );
     }
     url = `${base}${normalizedPath}`;

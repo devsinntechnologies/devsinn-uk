@@ -3,6 +3,7 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import { AnimatePresence, motion, useReducedMotion } from "framer-motion";
 import CalendlyModal from "@/components/ui/CalendlyModal";
+import { CALENDLY_URL } from "@/lib/calendly";
 import Button from "@/components/ui/button";
 import RippleButton from "@/components/ui/RippleButton";
 import { staggerContainer, wordStagger } from "@/lib/motion";
@@ -127,7 +128,7 @@ export default function Hero() {
       <CalendlyModal
         isOpen={isCalendlyOpen}
         onClose={() => setIsCalendlyOpen(false)}
-        url="https://calendly.com/devsinntechnologies/30min?hide_gdpr_banner=1"
+        url={CALENDLY_URL}
       />
 
       {/* Rotating video backgrounds */}

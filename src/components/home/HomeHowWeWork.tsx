@@ -6,6 +6,7 @@ import { AnimatePresence, motion, useReducedMotion } from "framer-motion";
 import { ArrowRight } from "lucide-react";
 import Button from "@/components/ui/button";
 import CalendlyModal from "@/components/ui/CalendlyModal";
+import { CALENDLY_URL } from "@/lib/calendly";
 import SectionDivider from "@/components/ui/SectionDivider";
 import { homeTheme as h } from "@/components/home/homeTheme";
 import { getPathwayBySlug } from "@/data/ai-pathways";
@@ -37,7 +38,7 @@ export default function HomeHowWeWork() {
       <CalendlyModal
         isOpen={isCalendlyOpen}
         onClose={() => setIsCalendlyOpen(false)}
-        url="https://calendly.com/devsinntechnologies/30min?hide_gdpr_banner=1"
+        url={CALENDLY_URL}
       />
 
       <div className="relative z-10 mx-auto w-full max-w-[1080px]">

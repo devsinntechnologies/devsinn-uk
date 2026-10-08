@@ -165,11 +165,11 @@ export const privacyContent = {
     },
     {
       title: "Your Rights",
-      body: "You may request access, correction, or deletion of personal information we hold about you by emailing info@devsinntechnologies.com. We will respond within a reasonable timeframe.",
+      body: "You may request access, correction, or deletion of personal information we hold about you by emailing hello@devsinn.co.uk. We will respond within a reasonable timeframe.",
     },
     {
       title: "Contact",
-      body: "For privacy questions contact Devsinn Technologies at info@devsinntechnologies.com or +92 336 5918295.",
+      body: "For privacy questions contact Devsinn Technologies at hello@devsinn.co.uk or +92 336 5918295.",
     },
   ],
 };

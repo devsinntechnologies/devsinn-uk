@@ -57,6 +57,16 @@ const nextConfig: NextConfig = {
         destination: "/#why-devsinn",
         permanent: false,
       },
+      {
+        source: "/careers",
+        destination: "/contact",
+        permanent: true,
+      },
+      {
+        source: "/careers/:path*",
+        destination: "/contact",
+        permanent: true,
+      },
     ];
   },
 };

@@ -98,7 +98,7 @@ export default function HomeContactPreview() {
           </p>
           <ul className="mt-6 space-y-3 text-sm text-gray">
             <li>
-              <span className="font-semibold text-nearblack">Email:</span> info@devsinntechnologies.com
+              <span className="font-semibold text-nearblack">Email:</span> hello@devsinn.co.uk
             </li>
             <li>
               <span className="font-semibold text-nearblack">WhatsApp:</span> +92 336 5918295

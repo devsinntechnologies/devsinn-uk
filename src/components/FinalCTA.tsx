@@ -2,10 +2,8 @@
 
 import { motion, useReducedMotion } from "framer-motion";
 import SectionDivider from "@/components/ui/SectionDivider";
-
-const CALENDLY_URL =
-  "https://calendly.com/devsinntechnologies/30min?hide_gdpr_banner=1&primary_color=005cff";
-const CONTACT_EMAIL = "info@devsinntechnologies.com";
+import { CALENDLY_URL } from "@/lib/calendly";
+const CONTACT_EMAIL = "hello@devsinn.co.uk";
 
 const points = [
   "30 minutes with Waqar Malik directly",

@@ -38,7 +38,7 @@ function buildUpstreamHeaders(req: NextRequest) {
 async function proxy(req: NextRequest, path: string[]) {
   const base = getTmApiBaseUrl();
   if (!base) {
-    return NextResponse.json({ message: "The careers API is not configured." }, { status: 503 });
+    return NextResponse.json({ message: "The API is not configured." }, { status: 503 });
   }
 
   const target = `${base}/${path.join("/")}${req.nextUrl.search}`;
@@ -57,7 +57,7 @@ async function proxy(req: NextRequest, path: string[]) {
     });
   } catch (error) {
     const message = error instanceof Error ? error.message : "Upstream API request failed";
-    return NextResponse.json({ message: `Careers API proxy failed: ${message}` }, { status: 502 });
+    return NextResponse.json({ message: `API proxy failed: ${message}` }, { status: 502 });
   }
 
   const responseBody = await upstream.text();

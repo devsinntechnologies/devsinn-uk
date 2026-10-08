@@ -5,7 +5,7 @@ import { motion, useReducedMotion } from "framer-motion";
 
 const founder = {
   name: "Waqar Malik",
-  role: "Founder & CEO, Devsinn Technologies",
+  role: "Founder & AI Strategist",
   linkedin: "https://www.linkedin.com/company/devsinn-technologies/",
   photo: "/waqar-founder.jpg",
   bio: [

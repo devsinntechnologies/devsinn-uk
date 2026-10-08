@@ -11,7 +11,7 @@ const offices = [
     title: "Global Headquarters",
     address: "H#14B-III, Butt Street, Rustam Park, Samnabad, Lahore, Pakistan",
     phone: "+92 336 5918295",
-    email: "devsinntechnologies@gmail.com",
+    email: "hello@devsinn.co.uk",
     pinLabel: "LAHORE",
     country: "PAKISTAN",
     // Coordinates tailored for the map graphic
@@ -26,7 +26,7 @@ const offices = [
     title: "European Hub",
     address: "Nottingham, Nottinghamshire County, England, United Kingdom",
     phone: "+44 7868 862651",
-    email: "devsinntechnologies@gmail.com",
+    email: "hello@devsinn.co.uk",
     pinLabel: "NOTTINGHAM",
     country: "UNITED KINGDOM",
     // Coordinates tailored for the map graphic

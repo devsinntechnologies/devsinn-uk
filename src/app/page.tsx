@@ -2,8 +2,8 @@ import Hero from "@/components/Hero";
 import HomeAboutSection from "@/components/home/HomeAboutSection";
 import HomeFounder from "@/components/home/HomeFounder";
 import HomeHowWeWork from "@/components/home/HomeHowWeWork";
+import HomeProductShowcase from "@/components/home/HomeProductShowcase";
 import ClientReviews from "@/components/ClientReviews";
-import HeroVideoSection from "@/components/HeroVideoSection";
 import ProblemStatement from "@/components/ProblemStatement";
 import OurServices from "@/components/OurServices";
 import HomeIndustries from "@/components/home/HomeIndustries";
@@ -56,6 +56,9 @@ export default function Home() {
       {/* How we work */}
       <HomeHowWeWork />
 
+      {/* Platform capabilities — replaces careers banner */}
+      <HomeProductShowcase />
+
       {/* Services */}
       {/* <OurServices /> */}
 
@@ -67,9 +70,6 @@ export default function Home() {
 
       {/* Selected case studies */}
       {/* <CaseStudies /> */}
-
-      {/* Hero Video Section */}
-      <HeroVideoSection />
 
       {/* Client feedback */}
       <ClientReviews />
