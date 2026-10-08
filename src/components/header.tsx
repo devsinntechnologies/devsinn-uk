@@ -185,7 +185,7 @@ export default function Header() {
                     : ""
                 }`}
               >
-                Contact Us
+                Hire Us
               </Button>
             </motion.div>
           </div>
@@ -257,7 +257,7 @@ export default function Header() {
               fullWidth
               onClick={() => setIsOpen(false)}
             >
-              Contact Us
+              Hire Us
             </Button>
           </div>
         </div>

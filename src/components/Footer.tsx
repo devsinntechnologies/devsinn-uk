@@ -173,7 +173,7 @@ export default function Footer() {
               Book a Strategy Call
             </Button>
             <Button id="footer-cta-contact" variant="secondary" href="/contact">
-              Contact Us
+              Hire Us
             </Button>
           </div>
         </div>
